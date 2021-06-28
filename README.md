@@ -26,3 +26,7 @@ The _X<sub>i</sub>_ represents the current value of the input feature, and _X_ w
 And then the constant can be found using:
 
 ![Formula](https://miro.medium.com/max/570/1*SQQSb1D0mz0oQ1hNbWjcVQ.png)
+
+<br>
+
+**NOTE:** This repository/project was made by following the article on [Simple Linear Regression](https://towardsdatascience.com/master-machine-learning-simple-linear-regression-from-scratch-with-python-1526487c5964) by **Dario Radečić**
